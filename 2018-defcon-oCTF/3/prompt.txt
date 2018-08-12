@@ -1,0 +1,2 @@
+enter the ottercorn 10 ---
+Find the message the ottercorn brings! - https://scoreboard.openctf.com/ottercorn1-2a78194592ffd25e1f69c13238b7a11f1f2be430

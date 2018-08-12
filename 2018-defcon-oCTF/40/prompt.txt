@@ -1,0 +1,2 @@
+fire walker 0 50 ---
+Flag: http://172.31.2.97:20621/flag-d12bb978.txt Firewall rules: https://scoreboard.openctf.com/firewalker_0-acaceaa807e20591173451a7a824a23f2728563b
