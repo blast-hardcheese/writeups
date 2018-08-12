@@ -10,4 +10,5 @@ Date: 2018-08-10 -> 2018-08-11
 - [DoTheNeedful (50)](./19/writeup.md)
 - [Nightmare-50 (50)](./24/writeup.md)
 - [fire walker 0 (50)](./40/writeup.md)
+- [fire walker 1 (???)](./41/writeup.md)
 - [talk to the machine (50)](./46/writeup.md)
