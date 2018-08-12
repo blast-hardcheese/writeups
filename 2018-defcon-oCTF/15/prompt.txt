@@ -1,0 +1,4 @@
+Scoreboard Bug Bounty 1337 ---
+Find an 0-day in our scoreboard. Source is here: https://pastebin.com/nVR8gEih
+
+(We will announce the decryption key at some point during the contest)
